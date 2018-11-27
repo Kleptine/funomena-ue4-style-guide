@@ -1,4 +1,4 @@
-# [Funomena](https://gamemak.in) UE4 Style Guide() {
+# [Funomena](https://gamemak.in) UE4 Style Guide
 
 *A mostly reasonable approach to Unreal Engine 4*
 
@@ -13,11 +13,6 @@ Every section of this style guide is numbered for both easy reference and easy l
 For example, if you want to send someone to the first principle of this style guide you would append `#0.1`, resulting in http://ue4.style#0.1.
 
 ## Important Terminology
-
-<a name="terms-level-map"></a>
-##### Levels/Maps
-
-The word 'map' generally refers to what the average person calls a 'level' and may be used interchangeably. See this term's history [here](https://en.wikipedia.org/wiki/Level_(video_gaming)).
 
 <a name="terms-cases"></a>
 ##### Cases
@@ -635,5 +630,3 @@ An automated method of checking your project against this style guide is availab
 ## Amendments
 
 We encourage you to fork this guide and change the rules to fit your team's style guide. Below, you may list some amendments to the style guide. This allows you to periodically update your style guide without having to deal with merge conflicts.
-
-# };
