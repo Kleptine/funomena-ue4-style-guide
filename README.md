@@ -6,9 +6,6 @@ Forked from the [Allar UE4 Style Guide](https://github.com/Allar/ue4-style-guide
 Heavily inspired by the [Airbnb Javascript Style Guide](https://github.com/airbnb/javascript).
 
 
-## Unreal Engine 4 Linter Plugin
-
-An automated method of checking your project against this style guide is available for purchase at [the Unreal Engine marketplace](https://www.unrealengine.com/marketplace/linter). This plugin's source code will eventually be free, but in order to use with UE4 without building the engine from source code, please use the marketplace version.
 
 ## Linking To This Document
 
@@ -631,6 +628,9 @@ See [LICENSE](/LICENSE)
 
 **[⬆ Back to Top](#table-of-contents)**
 
+## Unreal Engine 4 Linter Plugin
+
+An automated method of checking your project against this style guide is available for purchase at [the Unreal Engine marketplace](https://www.unrealengine.com/marketplace/linter). This plugin's source code will eventually be free, but in order to use with UE4 without building the engine from source code, please use the marketplace version.
 
 ## Amendments
 
