@@ -117,11 +117,11 @@ Most things are prefixed with prefixes being generally an acronym of the asset t
 <a name="1"></a>
 <a name="1.1"></a>
 ### 1.1 Base Asset Name - `BaseAssetName_Variant_Suffix`
-Please take a look at the document: Calvarium Style Guide
+Please take a look at the document: [Calvarium Style Guide](https://docs.google.com/document/d/18wLv7oPVHtulYFgnKJ5NQrS4m6wx4pvP89Wjl41W13o)
 
 <a name="2"></a>
 <a name="folders"></a>
-## 2. Folder and Asset Structures !
+## 2. Folder and Asset Structures
 
 <a name="2.1"></a>
 #### 2.1 No Global Assets
